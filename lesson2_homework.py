@@ -1,5 +1,6 @@
 # Python course lesson 2
-
+print('Test message added to create conflict')
+print('Test message #2 added to create conflict')
 # https://pythonworld.ru/samouchitel-python
 
 a = 3
